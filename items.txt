@@ -1,0 +1,11 @@
+chair 0
+ninja -50
+cigarette 30
+candy 35
+sex 69
+wifi 20
+snowballs 0
+myballs -1000
+toothpick -10
+monster -40
+headphones 0
